@@ -99,6 +99,13 @@
     color: white;
 
   }
+
+  .headerCell.measure.merged {
+    background-color: #12566d
+  }
+  .headerCell.measure.calculation.merged {
+    background-color: #12566d
+  }
   
   /* .headerCell.dimension.headerRow {
     background-color: #ccd8e4;
