@@ -191,7 +191,7 @@
   
   .subtotal.numeric {
     font-style: italic;
-    text-align: left;
+    text-align: left !important;
     font-weight: bold;
     background: #D3D3D3;
   }
