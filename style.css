@@ -66,6 +66,9 @@
     color: white;
 
   }
+  .headerCell.dimension.merged{
+    background-color: white;
+  }
   
   .headerCell.pivot {
     background-color: #3F869E;
